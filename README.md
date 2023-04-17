@@ -4,23 +4,17 @@
 </div>
 <hr>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **About me**
+## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UwODFjZmJiOWM2Y2Y0ZTBlMjJkNWQ3N2FiZDUzNDM2NTU2MTc0NyZjdD1n/geC0bBhrlrmlsjA2P2/giphy.gif" width = 20px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+👋 Hi everyone! I'm a Front-end web developer and Game Developer, I'm currently working on Front-end development projects and improving my skills 💪
 
-- 🔭 I’m currently working on Front-end development
+🌱 I love learning new things, from Back-end development to creating video games 🕹️, I'm even exploring Linux Distros! 🐧
 
-- 🔭 I’m currently working on Front-end development
+👯 I enjoy collaborating on open source projects, so feel free to reach out if you need help on any project! 😃
 
-- 🔭 I’m currently working on Front-end development
+💬 I love talking about technology, especially VueJS, Angular, Unity, and everything related to video game development 🎮. And when I'm not programming, I like to relax by listening to music 🎧
 
-- 🌱 I’m currently learning Front-end, Back-end, Gamedev and Linux
-
-- 👯 I’m looking to collaborate on Open source projects
-
-- 💬 Talk to me about VueJS, Angular Unity, Gamedev and Music
-
-<hr>
+Thank you for taking the time to read my introduction! If u want to talk check my <a href="https://www.linkedin.com/in/jesus-alberto-morales-rico-7092a9227/" target="_blank">LinkedIn profile</a> and see my games in my <a href="https://jamrgaming.itch.io/" target="_blank"></a>Itchio Profile!
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Skills</b>
 <p align="center">
@@ -106,20 +100,3 @@
 </div>
 
 <hr>
-
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UwODFjZmJiOWM2Y2Y0ZTBlMjJkNWQ3N2FiZDUzNDM2NTU2MTc0NyZjdD1n/geC0bBhrlrmlsjA2P2/giphy.gif" width="30"> <b>Let's talk</b>
-
-- **You can find me there**:
-
-<div align='left' style="padding-left:30px">
-<a href="https://www.linkedin.com/in/jesus-alberto-morales-rico-7092a9227/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</div>
-<div align='left' style="padding-left:30px">
-<a href="https://jamrgaming.itch.io/" target="_blank">
-<img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/>
-</a>
-</div>
-<hr>
-<br>
