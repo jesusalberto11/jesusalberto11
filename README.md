@@ -1,8 +1,7 @@
-<br>
 <hr>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=PT-sans-narrow&color=white&size=30&center=true&vCenter=true&width=600&height=100&lines=Hello+World,+I'm+Jesus+Alberto;Self-taught+Front-End+Developer,;Self-taught+Game+Developer;Systems Engineer,;Interested+in+new+Cultures,;Always+learning+new+stuff"></a>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+sans+narrow&weight=600&size=24&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+Word%2C+I'm+Jesus+Alberto;Self-taught+Front-End+Developer;Self-taught+Game+Developer;Interested+in+new+Cultures;Always+learning+new+stuff" alt="Typing SVG" /></a>
+</div>
 <hr>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **About me**
