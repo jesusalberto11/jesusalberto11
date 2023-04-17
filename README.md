@@ -4,7 +4,7 @@
 </div>
 <hr>
 
-## <picture><img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UwODFjZmJiOWM2Y2Y0ZTBlMjJkNWQ3N2FiZDUzNDM2NTU2MTc0NyZjdD1n/geC0bBhrlrmlsjA2P2/giphy.gif" width = 20px></picture> **About me**
+## <picture><img src ="https://i.giphy.com/media/geC0bBhrlrmlsjA2P2/giphy.webp" width = 20px></picture> **About me**
 
 👋 Hi everyone! I'm a Front-end web developer and Game Developer, I'm currently working on Front-end development projects and improving my skills 💪
 
