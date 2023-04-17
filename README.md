@@ -1,9 +1,10 @@
+<hr>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+sans+narrow&weight=600&size=24&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+Word%2C+I'm+Jesus+Alberto;Self-taught+Front-End+Developer;Self-taught+Game+Developer;Interested+in+new+Cultures;Always+learning+new+stuff" alt="Typing SVG" /></a>
 </div>
 <hr>
 
-## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UwODFjZmJiOWM2Y2Y0ZTBlMjJkNWQ3N2FiZDUzNDM2NTU2MTc0NyZjdD1n/geC0bBhrlrmlsjA2P2/giphy.gif" width = 20px></picture> **About me**
+## <picture><img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UwODFjZmJiOWM2Y2Y0ZTBlMjJkNWQ3N2FiZDUzNDM2NTU2MTc0NyZjdD1n/geC0bBhrlrmlsjA2P2/giphy.gif" width = 20px></picture> **About me**
 
 👋 Hi everyone! I'm a Front-end web developer and Game Developer, I'm currently working on Front-end development projects and improving my skills 💪
 
