@@ -14,7 +14,7 @@
 
 💬 I love talking about technology, especially VueJS, Angular, Unity, and everything related to video game development 🎮. And when I'm not programming, I like to relax by listening to music 🎧
 
-Thank you for taking the time to read my introduction! If u want to talk check my <a href="https://www.linkedin.com/in/jesus-alberto-morales-rico-7092a9227/" target="_blank">LinkedIn profile</a> and see my games in my <a href="https://jamrgaming.itch.io/" target="_blank"></a>Itchio Profile!
+Thank you for taking the time to read my introduction! If u want to talk check my <a href="https://www.linkedin.com/in/jesus-alberto-morales-rico-7092a9227/" target="_blank">LinkedIn profile</a> and see my games in my <a href="https://jamrgaming.itch.io/" target="_blank">Itchio Profile!</a>.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Skills</b>
 <p align="center">
